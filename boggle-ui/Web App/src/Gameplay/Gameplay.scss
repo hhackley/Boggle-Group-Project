@@ -1,0 +1,161 @@
+.gameplay-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.game-title {
+  height: 12.5vmin;
+  font-size: 10vmin;
+}
+
+.grid-and-leaderboard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: calc(69vmin + 12px);;
+    height: calc(44vmin + 10px);;
+    margin-top: 2.5vh;
+}
+
+.word-bank {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    width: calc(69vmin + 12px);;
+    height: 39vmin;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    border: 1px solid black;
+  }
+
+.grid-item {
+    border: 1px solid black;
+    height: 11vmin;
+    width: 11vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 7vmin;
+  }
+
+  .leaderboard-container {
+    display: flex;
+    flex-direction: column;
+    height: calc(44vmin + 6px);
+    width: 25vmin;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  .leaderboard-header {
+    width: 100%;
+    height: 4vmin;
+    display: flex;
+    align-items: center;
+    padding: .5vmin;
+    font-size: 3vmin;
+  }
+
+  .leaderboard-player-container {
+    display: flex;
+    align-items: center;
+    padding: .5vmin;
+    font-size: 3vmin;
+    width: 100%;
+    height: 4vmin;
+  }
+
+  .leaderboard-player-name {
+    font-size: 3vmin;
+  }
+
+  .leaderboard-player-score {
+    font-size: 3vmin;
+  }
+
+  .word-bank-header {
+    display: flex;
+    height: 20%;
+    width: 100%;
+    align-items: center;
+    font-size: 2.5vmin;
+  }
+
+  .player-score {
+    margin-left: auto;
+  }
+
+  .word-guess-input {
+    font-size: 2.5vmin;
+  }
+
+  .word-guess-enter {
+    font-size: 2.5vmin;
+    cursor: pointer;
+  }
+
+  .word-bank-words {
+    display: flex;
+    flex-wrap: wrap;
+    height: 72.5%;
+    margin-top: 0px;
+    overflow-y: auto;
+  }
+
+  .word-bank-word {
+    font-size: 2vmin;
+    padding-right: 3vmin;
+  }
+
+  .start-game-container {
+    position: absolute;
+    margin-left: 40vw;
+    margin-top: 40vh;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4vmin;
+    cursor: pointer;
+    padding: 2vmin;
+    border-radius: 1vmin;
+    &:hover {
+      background-color: black;
+      color: white;
+    }
+  }
+  
+  .joined-mid-session-popup {
+    position: absolute;
+    margin-left: 40vw;
+    margin-top: 40vh;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4vmin;
+    padding: 2vmin;
+    border-radius: 1vmin;
+  }
+
+  .timer {
+    position: absolute;
+    z-index: 2;
+    right: 0;
+    top: 0;
+    width: 5vmin;
+    height: 3vmin;
+    font-size: 3vmin;
+  }
