@@ -1,0 +1,383 @@
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testhost.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testhost.exe
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.deps.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.pdb
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.CopyComplete
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\refint\BoggleAPITest.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.pdb
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.genruntimeconfig.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\ref\BoggleAPITest.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.deps.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\appsettings.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.exe
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.pdb
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\appsettings.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testhost.exe
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testhost.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.deps.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.runtimeconfig.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.exe
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.deps.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.runtimeconfig.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.pdb
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.pdb
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.AssemblyReference.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.AssemblyInfoInputs.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.AssemblyInfo.cs
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.CopyComplete
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\refint\BoggleAPITest.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.pdb
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.genruntimeconfig.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\ref\BoggleAPITest.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.dll.config
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\appsettings.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testhost.exe
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testhost.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.deps.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.runtimeconfig.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.exe
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.deps.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.runtimeconfig.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ref\BoggleAPITest.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPITest.pdb
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.pdb
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\bin\Debug\net6.0\BoggleAPI.dll.config
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.AssemblyReference.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.AssemblyInfoInputs.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.AssemblyInfo.cs
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.CoreCompileInputs.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.csproj.CopyComplete
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\ref\BoggleAPITest.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.pdb
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPITest\obj\Debug\net6.0\BoggleAPITest.genruntimeconfig.cache
