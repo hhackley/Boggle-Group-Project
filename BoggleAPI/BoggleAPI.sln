@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoggleAPI", "BoggleAPI\BoggleAPI.csproj", "{09122F17-CA91-4940-A440-CC2ED962C01B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoggleAPITest", "BoggleAPITest\BoggleAPITest.csproj", "{1E93A003-A434-4EC9-9FE8-8C9408E69A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09122F17-CA91-4940-A440-CC2ED962C01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09122F17-CA91-4940-A440-CC2ED962C01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09122F17-CA91-4940-A440-CC2ED962C01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09122F17-CA91-4940-A440-CC2ED962C01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E93A003-A434-4EC9-9FE8-8C9408E69A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E93A003-A434-4EC9-9FE8-8C9408E69A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E93A003-A434-4EC9-9FE8-8C9408E69A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E93A003-A434-4EC9-9FE8-8C9408E69A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056BE2E2-C19C-405D-BCDF-7D859EF50A23}
+	EndGlobalSection
+EndGlobal

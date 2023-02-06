@@ -1,0 +1,163 @@
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.exe
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.deps.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.pdb
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\scopedcss\bundle\BoggleAPI.styles.css
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CopyComplete
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\refint\BoggleAPI.dll
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.pdb
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.genruntimeconfig.cache
+C:\Users\matth\OneDrive\Desktop\SoftwareEngineeringProject\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\ref\BoggleAPI.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.AssemblyReference.cache
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfoInputs.cache
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfo.cs
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CoreCompileInputs.cache
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\refint\BoggleAPI.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.pdb
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.exe
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.deps.json
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.runtimeconfig.json
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.pdb
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\scopedcss\bundle\BoggleAPI.styles.css
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CopyComplete
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.genruntimeconfig.cache
+C:\Users\logan\Repos\CSCE 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\ref\BoggleAPI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.exe
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.deps.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.runtimeconfig.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\ref\BoggleAPI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.pdb
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.AssemblyReference.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfoInputs.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfo.cs
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CoreCompileInputs.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\scopedcss\bundle\BoggleAPI.styles.css
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CopyComplete
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\ref\BoggleAPI.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.pdb
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.genruntimeconfig.cache
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.dll.config
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\logan\Repos\College Work\Soft 361\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.exe
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.deps.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.runtimeconfig.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.pdb
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.AssemblyReference.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfoInputs.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.AssemblyInfo.cs
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets\msbuild.BoggleAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.BoggleAPI.props
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BoggleAPI.props
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BoggleAPI.props
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\scopedcss\bundle\BoggleAPI.styles.css
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.csproj.CopyComplete
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\refint\BoggleAPI.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.pdb
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\BoggleAPI.genruntimeconfig.cache
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\obj\Debug\net6.0\ref\BoggleAPI.dll
+C:\Users\matth\Documents\School\UNL_Semester_1\Software_Engineering\Software_Engineering_Project\group-10-boggle\BoggleAPI\BoggleAPI\bin\Debug\net6.0\BoggleAPI.dll.config
